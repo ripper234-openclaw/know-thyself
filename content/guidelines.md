@@ -383,11 +383,10 @@ Language (Launch in Hebrew)
 
 The product will launch in Hebrew.
 
-During development, prompts may be drafted in English.
+English may still be useful for brainstorming, but publishable prompts should be written originally in Hebrew, not translated literally.
 
-⚠️ BLOCKING — Define Hebrew Crafting Process (see issue #25)
-
-Before writing the 30-question seed bank, define a repeatable method for crafting Hebrew prompts:
+The Hebrew crafting process is now defined in `content/hebrew-style-guide.md`.
+It covers:
 
 Tone calibration
 
@@ -397,12 +396,13 @@ Vocabulary boundaries
 
 Avoidance list (therapy jargon, academic tone, clichés)
 
-Whether prompts are written originally in Hebrew or translated
+Original-in-Hebrew drafting policy
 
 Final review process before publishing
 
 
-This must be defined before launch.
+The first seed bank draft lives in `content/prompts-hebrew-seed-bank-v1.md`.
+Final publication should still include an aloud-in-Hebrew review pass.
 
 
 ---
