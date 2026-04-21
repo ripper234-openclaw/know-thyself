@@ -4,6 +4,7 @@ First curated bank of 30 Hebrew prompts for Know-Thyself.
 
 This pass turns the bank into a **recommended 30-day launch sequence**, not just a loose list.
 The intent is to start gently, build trust, and only later move into sharper identity / fear territory.
+This editorial review also tightens several prompts after an aloud-in-Hebrew pass, mainly to reduce translated phrasing, lower unnecessary sharpness, and keep the first month answerable on a low-energy day.
 
 Design intent:
 - 21 **unique** prompts
@@ -25,11 +26,11 @@ Design intent:
    Type: Unique  
    Tags: Identity, Habits
 
-3. **איזה חלק ביום שלך מרגיש הכי אמיתי?**  
+3. **מתי ביום אתה הכי מרגיש עצמך?**  
    Type: Unique  
    Tags: Identity, Meaning
 
-4. **מה נותן לך תחושת משמעות גם בלי הכרה?**  
+4. **מה נותן לך משמעות גם בלי הכרה?**  
    Type: Evergreen  
    Tags: Meaning, Values
 
@@ -40,11 +41,11 @@ Design intent:
 
 ### Batch 2, values and tradeoffs
 
-6. **על מה אתה אומר "אין לי זמן" כשבעצם אין רצון?**  
+6. **איפה אתה אומר "אחר כך" כבר יותר מדי זמן?**  
    Type: Unique  
    Tags: Values, Habits
 
-7. **איפה אתה משקיע יותר ממה שבאמת חשוב לך?**  
+7. **איפה אתה משקיע יותר ממה שחשוב לך באמת?**  
    Type: Unique  
    Tags: Values, Patterns
 
@@ -56,7 +57,7 @@ Design intent:
    Type: Evergreen  
    Tags: Values, Identity
 
-10. **מה אתה דוחה בגלל סיבה שכבר לא רלוונטית?**  
+10. **מה אתה דוחה מסיבה שכבר לא רלוונטית?**  
    Type: Unique  
    Tags: Fears, Habits
 
@@ -70,11 +71,11 @@ Design intent:
    Type: Unique  
    Tags: Fears, Patterns
 
-13. **איזה רגע היום ביקש ממך לעצור, ולא עצרת?**  
+13. **איזה רגע היום ביקש שתעצור?**  
    Type: Unique  
    Tags: Habits, Patterns
 
-14. **מה אתה ממשיך לסחוב רק כי כבר התרגלת?**  
+14. **מה אתה ממשיך לסחוב כי התרגלת אליו?**  
    Type: Unique  
    Tags: Habits, Patterns
 
@@ -85,7 +86,7 @@ Design intent:
 
 ### Batch 4, relationships and boundaries
 
-16. **מה נשאר אצלך בפנים, אבל לא יוצא החוצה?**  
+16. **מה נשאר בפנים ולא מוצא מילים?**  
    Type: Unique  
    Tags: Relationships, Fears
 
@@ -93,15 +94,15 @@ Design intent:
    Type: Evergreen  
    Tags: Relationships, Emotions
 
-18. **איפה אתה מחכה לאישור שלא באמת צריך להגיע?**  
+18. **איפה אתה מחכה לאישור שאולי לא יגיע?**  
    Type: Unique  
    Tags: Identity, Relationships
 
-19. **מה ביקשת מעצמך השבוע שהיה לא הוגן?**  
+19. **איפה היית קשה עם עצמך השבוע?**  
    Type: Unique  
    Tags: Emotions, Patterns
 
-20. **איפה אתה מקטין את עצמך כדי שיהיה פשוט יותר?**  
+20. **איפה אתה מצטמצם כדי לא להסתבך?**  
    Type: Unique  
    Tags: Identity, Relationships
 
@@ -130,23 +131,23 @@ Design intent:
 
 ### Batch 6, integration
 
-26. **מה מפחיד אותך לאבד, ומה זה אומר עליך?**  
+26. **מה מפחיד אותך לאבד, ומה זה מגלה?**  
    Type: Evergreen  
    Tags: Fears, Identity
 
-27. **מתי הרגשת קנאה, ועל מה היא הצביעה?**  
+27. **מתי קינאת, ועל מה זה הצביע?**  
    Type: Unique  
    Tags: Emotions, Values
 
-28. **איזו אמת אתה אומר לאחרים, וקשה לך לחיות?**  
+28. **איזו אמת לא נוח לך לחיות לפיה?**  
    Type: Unique  
    Tags: Identity, Relationships
 
-29. **איזה מחיר שקט אתה משלם על משהו שנראה "בסדר"?**  
+29. **איזה מחיר שקט אתה משלם על משהו שנראה סביר?**  
    Type: Unique  
    Tags: Patterns, Meaning
 
-30. **מה אתה דואג להסתיר גם מעצמך?**  
+30. **על מה אתה מעדיף לא להסתכל כרגע?**  
    Type: Evergreen  
    Tags: Fears, Identity
 
@@ -155,5 +156,6 @@ Design intent:
 - The order is intentional: gentler prompts first, sharper prompts later.
 - Evergreen prompts are interwoven as integration beats, not clustered at the end.
 - The first launch pass should still be reviewed aloud in Hebrew before publishing.
+- This pass intentionally softens several late-sequence prompts so the bank stays reflective without tipping into confession pressure.
 - If a prompt feels too exposing in live use, prefer softening or swapping it rather than forcing intensity.
-- Strong candidates to cut first if the bank feels too heavy: 20, 28, 30.
+- If the bank still feels too heavy after testing, review 20, 28, and 30 first.
